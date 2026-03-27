@@ -2,7 +2,7 @@
  
 > Situation Professionnelle 2 - Client lourd / Épreuve E6 BTS SIO SLAM - Session 2026
  
-Application desktop de gestion des commandes fournisseurs développée pour **Promex**, PME de distribution de matériel professionnel basée à Villejuif (94).
+Application desktop de gestion des commandes fournisseurs développée pour **Promex**, PME de distribution de matériel professionnel.
  
 ---
  
