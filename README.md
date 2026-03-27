@@ -8,7 +8,7 @@ Application desktop de gestion des commandes fournisseurs développée pour **Pr
  
 ## Contexte
  
-Le service achat de Promex gérait ses commandes fournisseurs via des fichiers Excel, sans suivi structuré ni historique fiable. LogiDesk centralise la gestion des commandes dans une application desktop installée sur les postes du service achat, s'appuyant sur la même base de données que WebStock (SP1) pour garantir la cohérence des données.
+Le service achat de Promex gérait ses commandes fournisseurs via des fichiers Excel, sans suivi structuré ni historique fiable. LogiDesk centralise la gestion des commandes dans une application desktop installée sur les postes du service achat, s'appuyant sur la même base de données que WebStock (Situation Pro 1) pour garantir la cohérence des données.
  
 ---
  
