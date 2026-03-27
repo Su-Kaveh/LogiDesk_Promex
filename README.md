@@ -75,7 +75,7 @@ LogiDesk utilise la base **promex_db**, partagée avec WebStock (Situation Pro 1
 Le projet suit le mod_le **MVC** adapté à PySide6 :
  
 - **Modèles** : classes Python gérant l'accès aux données via mysql-connector-python
-- **Vues** : classes PySide6 (QWidget, QMainWindow, QDialog) gérant l'interface graphique
+- **Vues** : classes PySide6 gérant l'interface graphique
 - **Contrôleurs** : logique métier entre les modèles et les vues
 - **Database** : classe Singleton assurant une instance unique de connexion MySQL
 - **Signaux / Slots** : mécanisme PySide6 pour la communication entre composants
